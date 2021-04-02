@@ -1,0 +1,12 @@
+
+body {
+  font-size: 0.9rem;
+}
+
+.formClass {
+  margin-top: 10%;
+  margin-left: 25%;
+  width: 50%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
